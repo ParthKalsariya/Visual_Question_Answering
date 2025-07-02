@@ -3,6 +3,8 @@
 
 This project is a deep learning-based application that takes an image and a question as input and generates a relevant answer based on the image content. It demonstrates the use of vision-language models for Visual Question Answering (VQA).
 
+![image](https://github.com/user-attachments/assets/cda87acd-9b13-4026-bca0-1fb3f43f729e)
+
 ## 🚀 Features
 
 - Upload an image and ask a question about it.
@@ -16,4 +18,3 @@ This project is a deep learning-based application that takes an image and a ques
 - **Framework**: Streamlit
 - **Models**: Salesforce BLIP-VQA Base (Hugging Face)
 - **Libraries**: `torch`, `transformers`, `PIL`, `requests`, `streamlit`
-
