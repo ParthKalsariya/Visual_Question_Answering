@@ -12,7 +12,7 @@ if uploaded_file is not None:
     # Open and display the image
     image = Image.open(uploaded_file)
     st.image(image, caption="Uploaded Image", use_column_width=True)
-    image.save('C:/Users/kalsa/OneDrive/Desktop/Image qna bot/demo.jpg')
+    image.save('..//demo.jpg')
 
 Question = st.text_input("Enter your question you wants to ask about the image:")
 
